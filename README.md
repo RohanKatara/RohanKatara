@@ -2,7 +2,7 @@
 
 ### Full-Stack + AI Developer
 
-I build full-stack web apps and AI-powered automation tools — from 3D portfolios to agentic workflows and LLM-integrated products. Currently exploring fine-tuning, agentic pipelines, and creative frontends.
+I build full stack web apps and AI powered automation tools : from 3D portfolios to agentic workflows and LLM integrated products. Currently exploring fine tuning, agentic pipelines, and creative frontends.
 
 <p align="center">
   <a href="https://rohankatara.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
